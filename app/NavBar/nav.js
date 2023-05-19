@@ -30,7 +30,7 @@ export default function Nav() {
           AEH WHEATHER
 
           </Typography>
-          <Button color="inherit" href="cc">หน้าหลัก</Button>
+          <Button color="inherit" href="/">หน้าหลัก</Button>
           <Button color="inherit">พยากรณ์อากาศ</Button>
           <Button color="inherit">ภูมิอากาศ</Button>
           <Button color="inherit" >บริการ</Button>
